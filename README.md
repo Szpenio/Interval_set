@@ -1,1 +1,1 @@
-# Interval_set
+Modification of polymorphic set (implemented in Ocaml as AVL trees), interval set is a set of integers, where large intervals can be stored as single elements. Intervals stored in the set are disjoint. 

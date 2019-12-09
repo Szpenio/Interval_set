@@ -27,7 +27,6 @@
 
 (** Problem: Modyfikacja drzew **)
 (** Author: Antoni Koszowski **)
-(** Reviewer: Jan Olszewski **)
 
 (** type representing set - AVL trees **)
 type t =
